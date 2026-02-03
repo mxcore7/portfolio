@@ -1,0 +1,318 @@
+{
+    "hero": {
+        "greeting": "Bonjour, je suis",
+        "name": "Blondeau Moukam Homeni",
+        "title": "Développeur Python | Spécialiste ERP Odoo",
+        "subtitle": "Ingénieur Logiciel & Solutions d'Affaires",
+        "description": "Spécialisé dans la conception, la personnalisation et le déploiement de solutions ERP Odoo pour les entreprises en croissance. Passionné par la création de systèmes évolutifs et l'automatisation des processus métier.",
+        "cta": {
+            "projects": "Voir les Projets",
+            "contact": "Me Contacter",
+            "downloadCV": "Télécharger CV"
+        },
+        "location": "Douala, Cameroun",
+        "availability": "Ouvert aux opportunités internationales au Canada et en Europe"
+    },
+    "nav": {
+        "about": "À Propos",
+        "skills": "Compétences",
+        "experience": "Expérience",
+        "projects": "Projets",
+        "services": "Services",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "À Propos de Moi",
+        "subtitle": "Profil Professionnel",
+        "description": "Je suis un Développeur Python spécialisé en ERP Odoo avec une solide expérience en conception de modules, personnalisation et déploiement. Avec un parcours en tant que Responsable IT et Chef des Services IT, j'apporte à la fois une expertise technique et une compréhension des besoins métier à chaque projet.\n\nMes capacités full-stack, combinées à une connaissance approfondie des besoins des PME et des entreprises en croissance, me permettent de livrer des solutions qui optimisent réellement les opérations. Je m'épanouis dans des environnements internationaux et suis reconnu pour mon autonomie, ma rigueur et mon adaptabilité.\n\nJe suis passionné par les systèmes évolutifs, l'automatisation des processus et l'aide aux entreprises pour tirer parti de la technologie pour leur croissance.",
+        "highlights": [
+            "Plus de 5 ans d'expérience professionnelle",
+            "Expert en personnalisation ERP Odoo",
+            "Capacités de développement full-stack",
+            "Optimisation des processus métier",
+            "Collaboration en équipe internationale"
+        ]
+    },
+    "skills": {
+        "title": "Compétences Techniques",
+        "subtitle": "Technologies & Expertise",
+        "categories": {
+            "languages": {
+                "title": "Langages & Technologies de Base",
+                "items": [
+                    "Python",
+                    "JavaScript",
+                    "HTML5",
+                    "CSS3"
+                ]
+            },
+            "erp": {
+                "title": "ERP & Backend",
+                "items": [
+                    "Odoo ERP",
+                    "Modules Personnalisés",
+                    "Logique Métier",
+                    "Opérations CRUD",
+                    "Workflows"
+                ]
+            },
+            "frontend": {
+                "title": "Frontend & UI",
+                "items": [
+                    "Frontend Odoo",
+                    "Design Responsive",
+                    "Interfaces Utilisateur",
+                    "Templates QWeb"
+                ]
+            },
+            "tools": {
+                "title": "Outils de Développement",
+                "items": [
+                    "PyCharm",
+                    "Visual Studio Code",
+                    "Visual Studio",
+                    "Git",
+                    "Linux"
+                ]
+            },
+            "digital": {
+                "title": "Digital & Croissance",
+                "items": [
+                    "Google Ads",
+                    "Facebook Ads",
+                    "Gestion de Communauté",
+                    "SEO"
+                ]
+            }
+        }
+    },
+    "experience": {
+        "title": "Expérience Professionnelle",
+        "subtitle": "Parcours de Carrière",
+        "jobs": [
+            {
+                "title": "Développeur Python / Odoo",
+                "company": "FUTURA",
+                "period": "Mars 2025 - Présent",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Conception et développement de modules ERP Odoo",
+                    "Personnalisation basée sur les exigences métier",
+                    "Déploiement et maintenance de solutions ERP",
+                    "Conseil client et support technique"
+                ]
+            },
+            {
+                "title": "Responsable IT",
+                "company": "SIDUC SARL",
+                "period": "Septembre 2024 - Mars 2025",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Gestion de l'infrastructure IT (matériel et logiciel)",
+                    "Gestion des opérations quotidiennes via les systèmes IT",
+                    "Administration des comptes utilisateurs et des données",
+                    "Support technique et dépannage"
+                ]
+            },
+            {
+                "title": "Chef des Services IT",
+                "company": "TDSPACES SARL",
+                "period": "Juin 2022 - Mars 2024",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Développement de plateformes e-commerce et corporate",
+                    "Gestion de projets IT et coordination d'équipe",
+                    "Installations et configurations techniques",
+                    "Conseil client et conception de propositions"
+                ]
+            },
+            {
+                "title": "Développeur Full-Stack",
+                "company": "FullSoft",
+                "period": "Janvier 2022 - Septembre 2022",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Implémentation de nouvelles solutions logicielles",
+                    "Amélioration des systèmes existants",
+                    "Développement de modules backend et frontend",
+                    "Revue de code et optimisation"
+                ]
+            },
+            {
+                "title": "Formateur IT",
+                "company": "Centre de Formation GSVTI",
+                "period": "Février 2022 - Mai 2022",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Enseignement de l'informatique générale et des outils bureautiques",
+                    "Développement de programmes de formation",
+                    "Évaluation et mentorat des étudiants"
+                ]
+            },
+            {
+                "title": "Administrateur Réseau & Systèmes",
+                "company": "DIGITALTEK",
+                "period": "Mars 2021 - Juillet 2021",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Déploiement de réseaux Ethernet",
+                    "Configuration de la sécurité réseau et pare-feu",
+                    "Administration et surveillance des systèmes",
+                    "Documentation technique"
+                ]
+            },
+            {
+                "title": "Responsable IT & Digital",
+                "company": "SDAM ENTREPRISE",
+                "period": "Décembre 2020 - Mars 2021",
+                "location": "Douala, Cameroun",
+                "responsibilities": [
+                    "Développement et maintenance de sites web",
+                    "Gestion de projets IT",
+                    "Veille concurrentielle et technologique",
+                    "Mise en œuvre de stratégie digitale"
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "Projets Clés",
+        "subtitle": "Travaux Sélectionnés",
+        "items": [
+            {
+                "name": "Bot d'Automatisation de Trading",
+                "description": "Développement d'un système de trading automatisé avec synchronisation des positions admin-client et exécution automatique des trades. Construit avec Python pour des opérations de trading haute performance.",
+                "technologies": [
+                    "Python",
+                    "Intégration API",
+                    "Traitement Temps Réel",
+                    "Automatisation"
+                ],
+                "category": "Automatisation"
+            },
+            {
+                "name": "Personnalisation ERP Odoo",
+                "description": "Modules Odoo personnalisés pour la gestion des stocks, l'automatisation des ventes et l'intelligence d'affaires. Amélioration de l'efficacité opérationnelle de 40% pour les clients PME.",
+                "technologies": [
+                    "Odoo",
+                    "Python",
+                    "PostgreSQL",
+                    "QWeb"
+                ],
+                "category": "ERP"
+            },
+            {
+                "name": "Plateforme E-commerce",
+                "description": "Solution e-commerce full-stack avec intégration de paiement, gestion des stocks et analytique client. Architecture évolutive supportant plus de 10 000 produits.",
+                "technologies": [
+                    "Python",
+                    "JavaScript",
+                    "Conception de Base de Données",
+                    "APIs de Paiement"
+                ],
+                "category": "Développement Web"
+            }
+        ]
+    },
+    "services": {
+        "title": "Services",
+        "subtitle": "Ce Que J'Offre",
+        "items": [
+            {
+                "name": "Développement Odoo Personnalisé",
+                "description": "Conception et développement de modules Odoo personnalisés adaptés à vos besoins métier. De la gestion des stocks au CRM, je crée des solutions parfaitement adaptées.",
+                "icon": "code"
+            },
+            {
+                "name": "Intégration ERP",
+                "description": "Intégration transparente d'Odoo ERP avec vos systèmes existants. Assurez un flux de données fluide et des opérations commerciales unifiées sur toutes les plateformes.",
+                "icon": "database"
+            },
+            {
+                "name": "Applications Web",
+                "description": "Création d'applications web modernes et évolutives utilisant Python et JavaScript. Développement full-stack du concept au déploiement.",
+                "icon": "globe"
+            },
+            {
+                "name": "Automatisation Métier",
+                "description": "Automatisation des tâches répétitives et optimisation des workflows. Augmentez l'efficacité et réduisez les coûts opérationnels grâce à des solutions d'automatisation intelligentes.",
+                "icon": "zap"
+            },
+            {
+                "name": "Infrastructure IT",
+                "description": "Planification, déploiement et gestion de l'infrastructure IT. Configuration réseau, sécurité et administration des systèmes pour des opérations fiables.",
+                "icon": "server"
+            },
+            {
+                "name": "Conseil & Formation",
+                "description": "Conseil expert sur l'implémentation ERP et la stratégie IT. Formation de vos équipes pour une adoption technologique efficace.",
+                "icon": "users"
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contactez-Moi",
+        "subtitle": "Travaillons Ensemble",
+        "description": "Je suis actuellement ouvert aux opportunités internationales au Canada et en Europe. Que vous ayez besoin d'un expert Odoo, d'un développeur Python ou d'un consultant IT, j'aimerais avoir de vos nouvelles.",
+        "form": {
+            "name": "Votre Nom",
+            "email": "Votre Email",
+            "message": "Votre Message",
+            "submit": "Envoyer le Message",
+            "sending": "Envoi en cours...",
+            "success": "Message envoyé avec succès !",
+            "error": "Échec de l'envoi du message. Veuillez réessayer."
+        },
+        "info": {
+            "email": "moukamblondeau@gmail.com",
+            "phone": "+237 697 624 219",
+            "phone2": "+237 679 194 803",
+            "location": "Douala, Cameroun"
+        }
+    },
+    "education": {
+        "title": "Formation",
+        "items": [
+            {
+                "degree": "Licence - Génie Logiciel",
+                "school": "Institut Supérieur SIGMEN",
+                "period": "2025 - 2026",
+                "status": "En cours"
+            },
+            {
+                "degree": "BTS - Gestion des Systèmes d'Information",
+                "school": "Institut Supérieur SIGMEN",
+                "period": "2019 - 2020",
+                "status": "Complété"
+            }
+        ]
+    },
+    "languages": {
+        "title": "Langues",
+        "items": [
+            {
+                "name": "Français",
+                "level": "Natif / Courant"
+            },
+            {
+                "name": "Anglais",
+                "level": "Compétence Professionnelle"
+            }
+        ]
+    },
+    "softSkills": {
+        "title": "Compétences Comportementales",
+        "items": [
+            "Résolution de Problèmes",
+            "Autonomie",
+            "Communication Professionnelle",
+            "Esprit Analytique",
+            "Adaptabilité Culturelle",
+            "Travail d'Équipe International"
+        ]
+    },
+    "footer": {
+        "rights": "Tous droits réservés",
+        "tagline": "Ouvert aux opportunités internationales - Postes de Développeur Python & Odoo (Canada / Europe)"
+    }
+}
