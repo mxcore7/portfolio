@@ -73,9 +73,7 @@ const Footer = () => {
                     <p className="text-sm text-slate-500 text-center md:text-left">
                         © {currentYear} Blondeau Moukam. {t('footer.rights')}
                     </p>
-                    <p className="text-sm text-slate-500 flex items-center gap-1">
-                        {t('footer.madeWith')} <Heart size={14} className="text-red-500 fill-red-500" /> using React & Tailwind
-                    </p>
+
                 </div>
             </div>
         </footer>
