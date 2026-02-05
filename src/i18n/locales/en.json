@@ -11,7 +11,12 @@
             "downloadCV": "Download CV"
         },
         "location": "Douala, Cameroon",
-        "availability": "Open to international opportunities in Canada & Europe"
+        "availability": "Open to international opportunities in Canada & Europe",
+        "typingTitles": [
+            "Odoo Expert",
+            "Python Developer",
+            "Solutions Architect"
+        ]
     },
     "nav": {
         "about": "About",
@@ -31,7 +36,11 @@
             "Full-stack development capabilities",
             "Business process optimization",
             "International team collaboration"
-        ]
+        ],
+        "statusTitle": "Status",
+        "statusValue": "Available for hire",
+        "locationTitle": "Location",
+        "locationValue": "Douala, CM"
     },
     "skills": {
         "title": "Technical Skills",
@@ -255,12 +264,15 @@
         "subtitle": "Let's Work Together",
         "description": "I'm currently open to international opportunities in Canada and Europe. Whether you need an Odoo expert, a Python developer, or an IT consultant, I'd love to hear from you.",
         "form": {
+            "title": "Send me a message",
+            "subtitle": "I usually respond within 24 hours.",
             "name": "Your Name",
             "email": "Your Email",
             "message": "Your Message",
             "submit": "Send Message",
             "sending": "Sending...",
             "success": "Message sent successfully!",
+            "successTitle": "Message Sent!",
             "error": "Failed to send message. Please try again."
         },
         "info": {
@@ -313,6 +325,10 @@
     },
     "footer": {
         "rights": "All rights reserved",
-        "tagline": "Open to international opportunities - Python & Odoo Developer roles (Canada / Europe)"
+        "tagline": "Open to international opportunities - Python & Odoo Developer roles (Canada / Europe)",
+        "brandDescription": "Building digital experiences with passion and precision.",
+        "quickLinks": "Quick Links",
+        "connect": "Connect",
+        "madeWith": "Made with"
     }
 }

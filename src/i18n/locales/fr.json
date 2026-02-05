@@ -11,7 +11,12 @@
             "downloadCV": "Télécharger CV"
         },
         "location": "Douala, Cameroun",
-        "availability": "Ouvert aux opportunités internationales au Canada et en Europe"
+        "availability": "Ouvert aux opportunités internationales au Canada et en Europe",
+        "typingTitles": [
+            "Expert Odoo",
+            "Développeur Python",
+            "Architecte de Solutions"
+        ]
     },
     "nav": {
         "about": "À Propos",
@@ -31,7 +36,11 @@
             "Capacités de développement full-stack",
             "Optimisation des processus métier",
             "Collaboration en équipe internationale"
-        ]
+        ],
+        "statusTitle": "Statut",
+        "statusValue": "Disponible",
+        "locationTitle": "Localisation",
+        "locationValue": "Douala, CM"
     },
     "skills": {
         "title": "Compétences Techniques",
@@ -255,12 +264,15 @@
         "subtitle": "Travaillons Ensemble",
         "description": "Je suis actuellement ouvert aux opportunités internationales au Canada et en Europe. Que vous ayez besoin d'un expert Odoo, d'un développeur Python ou d'un consultant IT, j'aimerais avoir de vos nouvelles.",
         "form": {
+            "title": "Envoyez-moi un message",
+            "subtitle": "Je réponds généralement sous 24 heures.",
             "name": "Votre Nom",
             "email": "Votre Email",
             "message": "Votre Message",
             "submit": "Envoyer le Message",
             "sending": "Envoi en cours...",
             "success": "Message envoyé avec succès !",
+            "successTitle": "Message Envoyé !",
             "error": "Échec de l'envoi du message. Veuillez réessayer."
         },
         "info": {
@@ -313,6 +325,10 @@
     },
     "footer": {
         "rights": "Tous droits réservés",
-        "tagline": "Ouvert aux opportunités internationales - Postes de Développeur Python & Odoo (Canada / Europe)"
+        "tagline": "Ouvert aux opportunités internationales - Postes de Développeur Python & Odoo (Canada / Europe)",
+        "brandDescription": "Créer des expériences numériques avec passion et précision.",
+        "quickLinks": "Liens Rapides",
+        "connect": "Connecter",
+        "madeWith": "Fait avec"
     }
 }
